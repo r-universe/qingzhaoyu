@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesianMediationA"]
+	path = BayesianMediationA
+	url = https://github.com/cran/BayesianMediationA
+	shallow = true
+	registered = true
+[submodule "mlma"]
+	path = mlma
+	url = https://github.com/cran/mlma
+	shallow = true
+	registered = true
+[submodule "mma"]
+	path = mma
+	url = https://github.com/cran/mma
+	shallow = true
+	registered = true
+[submodule "mmabig"]
+	path = mmabig
+	url = https://github.com/cran/mmabig
+	shallow = true
+	registered = true
