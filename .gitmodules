@@ -5,6 +5,9 @@
 [submodule "BayesianMediationA"]
 	path = BayesianMediationA
 	url = https://github.com/cran/BayesianMediationA
+[submodule "bmabart"]
+	path = bmabart
+	url = https://github.com/cran/bmabart
 [submodule "hdbma"]
 	path = hdbma
 	url = https://github.com/cran/hdbma
